@@ -1,19 +1,19 @@
 # Data Mining and Management: Skills & Knowledge Assessment
 
 ## Strengths
-- 
+- With my prior experience with Python, 
 
 ## Weaknesses
 - 
 
 ## Wants/Wishes
-- 
+- I would like to master the advanced Python operators and concepts.
 
 # Data Mining and Management: Resources & References
 
 ## Work Samples
-- [CIDM 5310](https://github.com/BenGCollier/CIDM-5310)
-- [CIDM 6308](https://github.com/BenGCollier/CIDM-6308)
+- [CIDM 6351](https://github.com/BenGCollier/CIDM-6351/tree/main)
+- [CIDM 6355](https://github.com/BenGCollier/CIDM-6355)
 
 ## Knowledge Sources
 - Lecture slides
@@ -36,3 +36,4 @@
 
 ## Integration Statement
 
+## Preparedness
