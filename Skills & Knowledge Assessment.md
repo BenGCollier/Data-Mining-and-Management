@@ -40,7 +40,9 @@ Data mining and management are essential components of modern data-driven decisi
 -  Large-scale network data can be mined to detect anomalies and security threats. Proper data management ensures secure storage and retrieval of critical cybersecurity data.
 
 ## How Data Mining and Management is Integrable with Prior Work
-- 
+- In CIDM 6351, I applied data mining techniques to analyze large datasets, perform clustering, classification, and regression tasks.
+- In CIDM 6355, I worked extensively with structured databases, implementing data transformation processes to manage datasets efficiently.
+- Data cleaning and preprocessing were integral to my coursework, ensuring that the datasets used in various analyses were reliable and free of inconsistencies.
 
 ## Integration Statement
 Data mining and management are the foundation of effective data utilization, ensuring that raw data is transformed into structured, meaningful information. By integrating data mining with analytics, software systems, and cybersecurity, organizations can optimize performance, enhance decision-making, and fortify security measures.
